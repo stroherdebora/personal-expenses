@@ -1,4 +1,4 @@
-#Thu May 19 13:30:34 BRT 2022
+#Thu May 19 14:28:08 BRT 2022
 base.0=/home/bugsbunny/Courses/personal-expenses/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
